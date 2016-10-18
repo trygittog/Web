@@ -1,4 +1,6 @@
 <?xml version="1.0" encoding="Unicode"?>
 <root>
-<OpeningTag Attribute="value">content</OpeningTag>
+<ElementName AttributeName="AttributeValue">the content</ElementName>
+<message>实体引用 &lt; 表示小于号 &amp; 表示与</message>
+<!-- 注释内容 -->
 </root>
